@@ -2,7 +2,7 @@
 
 I am Adiba Masud, currently serving as a Lecturer at Daffodil International University in Bangladesh. With a strong academic background in Information Technology, I obtained both my Bachelor's and Master's degrees from Jahangirnagar University. I am deeply committed to advancing my field, focusing on interdisciplinary research that blends behavioral science, technology management, and data science. My dedication to expanding knowledge in these areas is highlighted by receiving two distinguished research fellowships—one from the ICT Ministry and another from the National Science and Technology. Now, I aspire to pursue a Ph.D. in Computer Science to further enrich my expertise and contribute to the field's advancement.
 
-## Thesis Work
+## Thesis Papers
 
 **Thesis Title: Dark side of Mobile Phone Technology: Assessing the Impact of Self-Phubbing and Partner-Phubbing on Life Satfaction.:** 
 

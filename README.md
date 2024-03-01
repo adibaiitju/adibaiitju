@@ -7,7 +7,7 @@ I am Adiba Masud, currently serving as a Lecturer at Daffodil International Univ
 Thesis Title: Dark side of Mobile Phone Technology: Assessing the Impact of Self-Phubbing and Partner-Phubbing on Life Satfaction.
 
 - Abstract:
-**Research Summary:**
+
 
 **Objective:** This study explores the characteristics of self-phubbing and partner-phubbing and their effects on marital relationship satisfaction, communication quality, and overall life satisfaction.
 

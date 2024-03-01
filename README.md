@@ -8,19 +8,8 @@ Thesis Title: Dark side of Mobile Phone Technology: Assessing the Impact of Self
 
 **Abstract:** 
 
-**Objective:** This study explores the characteristics of self-phubbing and partner-phubbing and their effects on marital relationship satisfaction, communication quality, and overall life satisfaction.
-
-**Methodology:** A quantitative approach was employed, involving 150 smartphone users in relationships in Malaysia. Participants completed a questionnaire, and data analysis was conducted using Partial Least Squares-based Structural Equation Modeling.
-
-**Findings:** The study reveals that smartphone conflicts negatively impact relationship satisfaction but not communication quality. Additionally, communication quality indirectly affects life satisfaction through its impact on relationship satisfaction.
-
-**Contribution:** This research fills a gap by investigating the consequences of self and partner phubbing on relationship and life satisfaction. It provides a validated research model based on primary data.
-
-**Recommendations:** Practitioners can use these findings to improve relationship counseling, focusing on reducing tension arising from smartphone use. Future research should explore additional factors related to phubbing behavior.
-
-**Impact on Society:** By highlighting the complex relationship between smartphone use, relationship happiness, and life contentment, this study promotes more mindful smartphone use and ultimately aims to contribute to healthier relationships and societal well-being.
-
-**Future Research:** Future research will implement an artificial neural network approach to predict the most influential factors in phubbing behavior.
+Assessing the Impact of Self-Phubbing and Partner-Phubbing on Life Satisfaction" delves into the examination of how self-phubbing (ignoring others for one's phone) and partner-phubbing (ignoring one's partner for the phone) influence life satisfaction. The study employs a quantitative approach to analyze the prevalence and consequences of these behaviors within the realm of mobile phone usage. Results indicate a significant negative correlation between self-phubbing, partner-phubbing, and overall life satisfaction levels among individuals. These findings shed light on the detrimental effects of excessive mobile phone usage on interpersonal relationships and personal well-being, prompting considerations for interventions and strategies to promote healthier digital habits and enhance overall life satisfaction. This study addresses broader societal ramifications in addition to the dynamics of particular relationships. This study promotes a more mindful use of 
+smartphones by exposing the complex relationships between technology use, relationship happiness, and general life contentment. This will ultimately lead to healthier relationships and improved societal well-being.
 
 **Keywords:** Phubbing, cellphone conflicts, communication quality, relationship satisfaction, life satisfaction.
 
@@ -45,7 +34,7 @@ This research addresses the gap and gives insight into the consequences of self 
 
 
 
-  **Thesis Title: Development of a Neurofeedback Approach for ADHD Children**
+**Thesis Title: Development of a Neurofeedback Approach for ADHD Children**
 
  
 **Abstract:**
@@ -97,9 +86,7 @@ https://drive.google.com/file/d/1AJ0mOcLsJvx0c2nbcjVYR84MgM_xw_1g/view
 
 
 
-
-Thesis Title: Image Captioning in Bengali Language Using Visual
-Attention
+**Thesis Title: Image Captioning in Bengali Language Using Visual Attention**
 
 
 
@@ -145,3 +132,42 @@ compared the output with some existing models.
   Image and Video Captioning in Bengali Language Using Visual Attention, PLOS ONE. (Accepted)
   
   https://drive.google.com/file/d/18aMuu60iOzAPnSXryGLzX5pzj4mVO0ck/view
+
+
+
+
+
+
+
+## Undergrade Thesis Paper 
+
+**Thesis Title: Stock Market Analysis Using Twitter Sentiment**
+
+
+**Abstract:**
+
+Recently happening the epidemic which have impacted the importance inquiring
+ability of our daily life styles. Sentiments have clothed to be a huge impact at the mo-
+tion of the inventory change and pandemic has satisfactory introduced greater steam.
+This study with the limelight at the recent pandemic is a try to analyze the magnifi-
+cence accuracy of determined-on algorithms for sentiment evaluation and prediction
+for the inventory costs. We’ve attempted to take a look at proposed framework for
+sentiment analysis and prediction for the ideas to discover the correlation among peo-
+ple and forum sentiment. We use twitter records to anticipate public temper and use
+the anticipated mood and previous days. We have considerably utilized DJIA values
+for a certain time period and also tweet values for understanding people’s sentiment
+on which we are looking ahead to the inventory market actions. After this, checking
+highlights the accurate process or methods or algorithms based mostly on processed
+outcomes. Then the ones algorithms may be enough to give input for building active
+prediction systems such we want.
+
+**Research Findings:**
+Stock market prediction using sentiment analysis reveal intriguing insights into the relationship between market sentiment and stock price movements. Through sentiment analysis of social media, news articles, and other textual data sources, the study demonstrates a correlation between sentiment trends and subsequent fluctuations in stock prices. Positive sentiment tends to precede upward trends in stock prices, while negative sentiment often anticipates downturns. Moreover, the research highlights the potential for sentiment analysis models to provide valuable predictive signals for investors and traders, offering insights into market sentiment dynamics that can inform more informed investment decisions. However, the study also underscores the challenges of accurately interpreting and incorporating sentiment data into stock market forecasting models, emphasizing the need for further refinement and validation of sentiment analysis techniques in financial markets. 
+
+**Keywords:** Stock Market, Epidemic, Sentiment Analysis, Twitter Data.
+
+
+**Publications:**
+  Image and Video Captioning in Bengali Language Using Visual Attention, PLOS ONE. (Accepted)
+
+  https://drive.google.com/file/d/1AnRP6kAwTZbAGa94X01YfOTMzQQ0qAPM/view?usp=sharing

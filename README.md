@@ -4,7 +4,8 @@ I am Adiba Masud, currently serving as a Lecturer at Daffodil International Univ
 
 ## Thesis Work
 
-Thesis Title: Dark side of Mobile Phone Technology: Assessing the Impact of Self-Phubbing and Partner-Phubbing on Life Satfaction.
+**Thesis Title: Dark side of Mobile Phone Technology: Assessing the Impact of Self-Phubbing and Partner-Phubbing on Life Satfaction.:** 
+
 
 **Abstract:** 
 
@@ -34,7 +35,7 @@ This research addresses the gap and gives insight into the consequences of self 
 
 
 
-**Thesis Title: Development of a Neurofeedback Approach for ADHD Children**
+**2. Thesis Title: Development of a Neurofeedback Approach for ADHD Children**
 
  
 **Abstract:**
@@ -86,7 +87,7 @@ https://drive.google.com/file/d/1AJ0mOcLsJvx0c2nbcjVYR84MgM_xw_1g/view
 
 
 
-**Thesis Title: Image Captioning in Bengali Language Using Visual Attention**
+**3. Thesis Title: Image Captioning in Bengali Language Using Visual Attention**
 
 
 

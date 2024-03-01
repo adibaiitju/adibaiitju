@@ -38,7 +38,8 @@ This research addresses the gap and gives insight into the consequences of self 
 - Dark Side of Mobile Phone Technology: Assessing the Impact of Self-Phubbing and Partner-
   Phubbing on Life Satisfaction, Interdisciplinary Journal of Information, Knowledge, and
 
-  Management, Volume 18,2023, pp. 893-914, https://doi.org/10.28945/5241
+  Management, Volume 18,2023, pp. 893-914
+   https://doi.org/10.28945/5241
 
 
 
@@ -49,26 +50,30 @@ This research addresses the gap and gives insight into the consequences of self 
  
 **Abstract:**
 
-This research investigates the effectiveness of neurofeedback (NF) as a treatment for attention deficit hyperactivity disorder (ADHD) in children and adults across various age groups. It aims to determine whether NF can effectively alleviate symptoms of inattention, hyperactivity, and impulsivity associated with ADHD.
+Online addiction to social media, video games, and other kinds of online pleasure is a 1
+common symptom of attention deficit hyperactivity disorder (ADHD). This neurodevelopmental 2
+disease affects many American children. New and better ADHD treatments, such as neurofeedback 3
+(NF), are being actively investigated by researchers. The goal of this research is to determine whether 4
+NF is effective in treating ADHD in children and adults of varying ages. Children as young as 5
+six years old and as old as eighteen years old were among the several age groups represented in 6
+this study. None of the students who underwent an electroencephalogram (EEG) with 19 channels 7
+showed signs of ADHD or above-average intellect. This meta-analysis set out to determine whether 8
+NF helped children with ADHD who had been officially diagnosed with symptoms of inattention, 9
+hyperactivity, and impulsivity. The effects on inattention and hyperactivity/impulsivity were both 10
+statistically and practically significant, according to the results. In the end, we want to use EEG-based 11
+databases and a variety of approaches to build prototypes for online classroom monitoring and 12
+performance assessments.
 
-**Methodology:**
 
-- **Participant Selection:** The study included children aged six to eighteen years old, representing different age groups.
-- **Data Collection:** Electroencephalogram (EEG) data was collected from participants using 19 channels to assess ADHD symptoms and intellectual abilities.
-- **Treatment Intervention:** Participants diagnosed with ADHD underwent NF treatment, which involved training to regulate brain activity.
-- **Outcome Measurement:** The effects of NF on inattention and hyperactivity/impulsivity were statistically analyzed to determine practical significance.
+**Research Findings:**
 
-**Key Findings:**
+The research findings on the development of a neurofeedback approach for ADHD children reveal promising outcomes in managing symptoms and improving attentional control. Through targeted neurofeedback training, children with ADHD exhibit enhanced self-regulation abilities, reduced impulsivity, and improved attention span. The neurofeedback protocol enables participants to learn to modulate their brain activity, leading to significant improvements in attentional and behavioral outcomes over time. Moreover, the findings suggest that neurofeedback interventions offer a non-invasive and effective alternative to traditional pharmacological treatments, emphasizing the potential of neurofeedback as a valuable therapeutic tool for ADHD management in children.
 
-- **EEG Results:** None of the participants showed signs of ADHD or above-average intellect based on EEG data.
-- **Effectiveness of NF:** NF was found to be statistically and practically significant in reducing symptoms of inattention and hyperactivity/impulsivity in children diagnosed with ADHD.
-- **Implications:** The research suggests the potential use of EEG-based databases and various approaches to develop prototypes for online classroom monitoring and performance assessments, indicating broader applications beyond NF treatment for ADHD.
 
-**Conclusion:**
+**Keywords:**
 
-The findings indicate that NF holds promise as an effective treatment for ADHD symptoms in children. Additionally, the study highlights the potential for utilizing EEG-based data and innovative approaches for developing tools to support online classroom monitoring and performance assessments.
-- Research Findings: The results of this survey show that smartphone conflicts harm relationship satisfaction but not communication quality. It was revealed that communication quality does not directly bring a negative impact on life satisfaction, but it directly affects relationship satisfaction, which, in turn, harms life satisfaction.
-
+ ADHD, Neuro Feedback, Neurobehavioral Disorders, Electroencephalograms, Machine 14
+ Learning, Deep Learning, Artificial Intelligence.
 
 
   **Contributions:**
@@ -86,6 +91,9 @@ compared the output with some existing models.
 - Development of a Neurofeedback Approach for ADHD Children, BioMedInformatics,
 biomedinformatics-2861347 (Accepted)
 
+https://drive.google.com/file/d/1AJ0mOcLsJvx0c2nbcjVYR84MgM_xw_1g/view
+
+
 
 
 
@@ -93,16 +101,37 @@ biomedinformatics-2861347 (Accepted)
 Thesis Title: Image Captioning in Bengali Language Using Visual
 Attention
 
-- Abstract:
- 
 
 
+**Abstract:**
 
-- Research Findings:
+Automatically generating image captions poses as one of the most challenging
+applications within artificial intelligence due to its integration of computer vision and
+natural language processing algorithms. This task becomes notably more formidable
+when dealing with a language as intricate as Bengali and the overall scarcity of
+Bengali-captioned image databases. In this investigation, a meticulously
+human-annotated dataset of Bengali captions has been curated specifically for the
+encompassing collection of pictures. Simultaneously, for the objective of crafting
+pertinent image descriptions in the Bengali language, an innovative end-to-end
+architecture has been introduced, leveraging an attention-driven decoder. Initially, the
+amalgamation of images’ spatial and temporal attributes is facilitated by Gated
+Recurrent Units, constituting the input features. These features are subsequently fed
+into the attention layer, alongside embedded caption features. The attention mechanism
+scrutinizes the interrelation between visual and linguistic representations, encompassing
+both categories of representations. Later, a comprehensive recursive unit comprising two
+layers employs the amalgamated attention traits to construct coherent sentences. By
+utilizing our furnished dataset, this model undergoes training, culminating in
+achievements of 43% BLEU-4 score, 39% METEOR score, and 47% ROUGE score. In
+comparison with all preceding endeavors in the realm of Bengali image captioning, these
+outcomes signify the pinnacle of current attainable standards.
 
+
+**Research Findings:**
+
+Image captioning in Bengali language utilizing visual attention mechanisms yields promising outcomes. By integrating visual attention, the model demonstrates enhanced accuracy and relevance in generating captions for images. Through the attention mechanism, the model effectively focuses on salient regions of the image, enabling it to produce captions that better encapsulate the contextual nuances and linguistic intricacies specific to the Bengali language. This approach not only improves the quality of image understanding but also ensures more coherent and culturally relevant descriptions, catering to the linguistic nuances and preferences of Bengali-speaking users. Such findings underscore the efficacy of attention-based techniques in bridging the gap between visual perception and natural language understanding in the context of Bengali image captioning.
+
+**Contributions:**
   
--Contributions:
-
 The main contributions of this
 research work are:
 • We have created a dataset for image captioning in the Bengali Language.
@@ -112,11 +141,7 @@ attention on the characteristics recovered by utilizing two distinct CNN models.
 compared the output with some existing models.
 
 
-
-- Publications: [Any Publications Resulting from Your Thesis Work]
-
-    [List any publications that have resulted from your thesis work, such as conference papers, journal articles, or presentations.]
-
-Feel free to explore my thesis work in detail in the repository [link to your thesis repository].
-
-https://doi.org/10.28945/5241
+**Publications:**
+  Image and Video Captioning in Bengali Language Using Visual Attention, PLOS ONE. (Accepted)
+  
+  https://drive.google.com/file/d/18aMuu60iOzAPnSXryGLzX5pzj4mVO0ck/view

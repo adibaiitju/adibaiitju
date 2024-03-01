@@ -6,8 +6,7 @@ I am Adiba Masud, currently serving as a Lecturer at Daffodil International Univ
 
 Thesis Title: Dark side of Mobile Phone Technology: Assessing the Impact of Self-Phubbing and Partner-Phubbing on Life Satfaction.
 
-- Abstract:
-
+**Abstract:** 
 
 **Objective:** This study explores the characteristics of self-phubbing and partner-phubbing and their effects on marital relationship satisfaction, communication quality, and overall life satisfaction.
 
@@ -26,17 +25,17 @@ Thesis Title: Dark side of Mobile Phone Technology: Assessing the Impact of Self
 **Keywords:** Phubbing, cellphone conflicts, communication quality, relationship satisfaction, life satisfaction.
 
 
-- Research Findings: The results of this survey show that smartphone conflicts harm relationship satisfaction but not communication quality. It was revealed that communication quality does not directly bring a negative    impact on life satisfaction, but it directly affects relationship satisfaction, which, in turn, harms life satisfaction.
+**Research Findings:**
+The results of this survey show that smartphone conflicts harm relationship satisfaction but not communication quality. It was revealed that communication quality does not directly bring a negative    impact on life satisfaction, but it directly affects relationship satisfaction, which, in turn, harms life satisfaction.
 
 
 
--Contributions:
-
+**Contributions:**
 This research addresses the gap and gives insight into the consequences of self and partner phubbing and its impact on the relationship and life satisfaction among partners by providing a research model that was validated with primary data.
 
 
-
-- Publications: Dark Side of Mobile Phone Technology: Assessing the Impact of Self-Phubbing and Partner-
+**Publications:**
+- Dark Side of Mobile Phone Technology: Assessing the Impact of Self-Phubbing and Partner-
   Phubbing on Life Satisfaction, Interdisciplinary Journal of Information, Knowledge, and
 
   Management, Volume 18,2023, pp. 893-914, https://doi.org/10.28945/5241

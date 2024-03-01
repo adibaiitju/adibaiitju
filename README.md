@@ -139,7 +139,7 @@ compared the output with some existing models.
 
 
 
-## Undergrade Thesis Paper 
+## Undergraduate Thesis Paper 
 
 **Thesis Title: Stock Market Analysis Using Twitter Sentiment**
 
@@ -168,6 +168,9 @@ Stock market prediction using sentiment analysis reveal intriguing insights into
 
 
 **Publications:**
-  Image and Video Captioning in Bengali Language Using Visual Attention, PLOS ONE. (Accepted)
+Research work 01 January 2021 – 01 May 2022
+Stock market analysis using Machine Learning and Text Blob tools
+Thesis title: “Stock market analysis using the Twitter sentiment”
+Research Supervisor: Manan Binth Taj Noor
 
   https://drive.google.com/file/d/1AnRP6kAwTZbAGa94X01YfOTMzQQ0qAPM/view?usp=sharing

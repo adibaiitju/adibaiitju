@@ -1,6 +1,24 @@
+---
+
+<div align="center">
+    <img src="https://your-profile-image-url.png" alt="Your Name" width="200" height="200">
+</div>
+
+<h1 align="center">Hi there! 👋 I'm Adiba Masud</h1>
+
+<p align="center">
+    MS Student | Researcher | Project Enthusiast
+</p>
+
+---
+
+
 ## About Me
 
-I am Adiba Masud, currently serving as a Lecturer at Daffodil International University in Bangladesh. With a strong academic background in Information Technology, I obtained both my Bachelor's and Master's degrees from Jahangirnagar University. I am deeply committed to advancing my field, focusing on interdisciplinary research that blends behavioral science, technology management, and data science. My dedication to expanding knowledge in these areas is highlighted by receiving two distinguished research fellowships—one from the ICT Ministry and another from the National Science and Technology. Now, I aspire to pursue a Ph.D. in Computer Science to further enrich my expertise and contribute to the field's advancement.
+**Resume: https://drive.google.com/file/d/17ZaiQuokNLg5iUEF1ayscZ7B0OjWPUx-/view**
+
+
+**I am Adiba Masud, currently serving as a Lecturer at Daffodil International University in Bangladesh. With a strong academic background in Information Technology, I obtained both my Bachelor's and Master's degrees from Jahangirnagar University. I am deeply committed to advancing my field, focusing on interdisciplinary research that blends behavioral science, technology management, and data science. My dedication to expanding knowledge in these areas is highlighted by receiving two distinguished research fellowships—one from the ICT Ministry and another from the National Science and Technology. Now, I aspire to pursue a Ph.D. in Computer Science to further enrich my expertise and contribute to the field's advancement.**
 
 ## Thesis Papers
 
@@ -175,3 +193,22 @@ Thesis title: “Stock market analysis using the Twitter sentiment”
 Research Supervisor: Manan Binth Taj Noor
 
   https://drive.google.com/file/d/1AnRP6kAwTZbAGa94X01YfOTMzQQ0qAPM/view?usp=sharing
+
+
+
+  
+## Projects
+
+🚀 Throughout my MS journey, I've worked on various projects related to [Your Area of Interest]. Here are a few noteworthy projects:
+
+- **Project 1: Computer-Graphics-Project Using C++**
+- 
+- **Project 2: Machine-Learning-Mini-Projects** 
+
+- **Project 3: Feedback-System-in-PHP** 
+
+- **Project 4: FCFS-Priority-FCFS-Round-Robin-Priority-SJF-SJF-Project** 
+
+- **Project 5: E--learning-and-Online-Examination-System-using-PHP**
+
+Feel free to explore my projects in detail in the respective repositories.

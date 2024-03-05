@@ -1,7 +1,7 @@
 ---
 
 <div align="center">
-    <img src="[https://your-profile-image-url.png](https://avatars.githubusercontent.com/u/161849740?v=4)" alt="Your Name" width="200" height="200">
+    <img src="https://avatars.githubusercontent.com/u/161849740?v=4" alt="Your Name" width="200" height="200">
 </div>
 
 <h1 align="center">Hi there! 👋 I'm Adiba Masud</h1>

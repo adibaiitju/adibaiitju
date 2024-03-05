@@ -4,10 +4,10 @@
     <img src="https://avatars.githubusercontent.com/u/161849740?v=4" alt="Your Name" width="200" height="200">
 </div>
 
-<h1 align="center">Hi there! 👋 I'm Adiba Masud</h1>
+<h1 align="center">Seeking a Graduate Research Assistant! I'm Adiba Masud! </h1>
 
 <p align="center">
-    MS Student | Researcher | Project Enthusiast
+   Lecturer!Researcher!Project Enthusiast! Data Science! Machine Learning
 </p>
 
 ---
@@ -212,3 +212,21 @@ Research Supervisor: Manan Binth Taj Noor
 - **Project 5: E--learning-and-Online-Examination-System-using-PHP**
 
 Feel free to explore my projects in detail in the respective repositories.
+
+
+
+📚 As a faculty, I understand the importance of resources in aiding learning and research. Here are some resources I've found helpful for my students:
+- Teaching courses: Computer Fundamentals, Structured Programming, Structured Programming Lab, Database System, Database System Lab, Design Pattern, Software Architecture
+- Tools and Software: Code blocks, Visual Studio, Anaconda, MS office, Excel, PowerBi
+
+You can explore these resources in detail in the repository [link to your resources repository].
+
+## Connect with Me
+
+📫 I'm always open to connecting with fellow students, researchers, and enthusiasts in my field. Let's connect and learn from each other!
+
+- Email: adiba.swe@diu.edu.bd, adibaiitju08@gmail.com (Personal)
+- LinkedIn: https://www.linkedin.com/in/adiba-masud-2531b7194 
+## Feedback
+
+📝 Your feedback is valuable to me! If you have any suggestions for improving my thesis work, projects, or resources, please feel free to share them. Let's continue to grow together!

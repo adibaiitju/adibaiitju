@@ -7,7 +7,7 @@
 <h1 align="center">Seeking a Graduate Research Assistant! I'm Adiba Masud! </h1>
 
 <p align="center">
-   Lecturer!Researcher!Project Enthusiast! Data Science! Machine Learning
+   Lecturer| Researcher| Project Enthusiast| Data Science| Machine Learning
 </p>
 
 ---

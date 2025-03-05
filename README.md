@@ -4,10 +4,10 @@
     <img src="https://avatars.githubusercontent.com/u/161849740?v=4" alt="Your Name" width="200" height="200">
 </div>
 
-<h1 align="center">Seeking a Graduate Research Assistant! I'm Adiba Masud! </h1>
+<h1 align="center">Graduate Research Assistant! I'm Adiba Masud! </h1>
 
 <p align="center">
-   Lecturer| Researcher| Project Enthusiast| Data Science| Machine Learning
+   Lecturer| Researcher| Project Enthusiast| Distributed Deep Learning | Machine Learning
 </p>
 
 ---

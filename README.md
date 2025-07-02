@@ -4,10 +4,12 @@
     <img src="https://avatars.githubusercontent.com/u/161849740?v=4" alt="Your Name" width="200" height="200">
 </div>
 <h1 align="center">Hi 👋, I'm Adiba Masud</h1>
-<h3 align="center">Graduate Teaching Assistant | PhD Researcher | Software Engineer | AI & Deep Learning Enthusiast</h3>
+<h3 align="center">Graduate Teaching Assistant | CS PhD @UTSA | Researcher | AI & Deep Learning Enthusiast</h3>
 
 ---
-
+🎓 I have graduated from Jahangirnagar University doing my major in Information System
+💻 All of my projects are available at [github.com/adibaiitju](https://github.com/adibaiitju).
+📄 Find all of my publications at [Google Scholar](https://scholar.google.com/citations?user=qRy0ZCgAAAAJ&hl=en).
 🔭 I’m currently working on:
 - Deep learning research with distributed inference systems
 - Raspberry Pi + Server based model partitioning
@@ -27,10 +29,27 @@
 -  LinkedIn: https://www.linkedin.com/in/adiba-masud-2531b7194 
 
 ⚡ Fun facts:
-- I'm originally from Bangladesh 🇧🇩
+- I'm originally from Bangladesh
 - I love teaching, travel, and food
 
 ---
+🔎 **Find me**
+
+<p align="left">
+  <a href="https://scholar.google.com/citations?user=qRy0ZCgAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adiba-masud-2531b7194/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Adiba-Masud-2?ev=hdr_xprf" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/adiba.ehita.3" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
 
 ### 🛠️ Technologies & Tools
 

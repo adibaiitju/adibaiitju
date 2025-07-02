@@ -7,14 +7,14 @@
 <br>
 <h3 align="center">Graduate Teaching Assistant | CS PhD @UTSA | Researcher | AI & Deep Learning Enthusiast</h3>
 <br>
----
+---<br>
 🎓 I have graduated from Jahangirnagar University doing my major in Information System <br>
 💻 All of my projects are available at [github.com/adibaiitju](https://github.com/adibaiitju). <br>
 📄 Find all of my publications at [Google Scholar](https://scholar.google.com/citations?user=qRy0ZCgAAAAJ&hl=en).<br>
-🔭 I’m currently working on:
-- Deep learning research with distributed inference systems
-- Raspberry Pi + Server based model partitioning
-- Academic publishing and collaborative projects
+🔭 I’m currently working on:<br>
+- Deep learning research with distributed inference systems <br>
+- Raspberry Pi + Server based model partitioning <br>
+- Academic publishing and collaborative projects <br>
 
 🌱 I’m currently learning:
 - Advanced Bash scripting

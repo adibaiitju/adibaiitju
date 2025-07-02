@@ -7,7 +7,8 @@
 <br>
 <h3 align="center">Graduate Teaching Assistant | CS PhD @UTSA | Researcher | AI & Deep Learning Enthusiast</h3>
 <br>
----<br>
+---
+<br>
 🎓 I have graduated from Jahangirnagar University doing my major in Information System <br>
 💻 All of my projects are available at [github.com/adibaiitju](https://github.com/adibaiitju). <br>
 📄 Find all of my publications at [Google Scholar](https://scholar.google.com/citations?user=qRy0ZCgAAAAJ&hl=en).<br>
